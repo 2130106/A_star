@@ -1,4 +1,4 @@
-const table = new Table(40, 40);
+const table = new Table(20, 20);
 const astar = new AStar(table);
 
 const canvas = document.querySelector("#table");
